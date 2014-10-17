@@ -13,6 +13,11 @@ The Procfile tells the Helion Development Platform how to run your Node.js
 application. An extremely simple one is included with this sample that just 
 tells us how to execute the program. 
 
+## Deploy to HP Helion
+<a href="https://deploynow.hpcloud.com/?repoUrl=https://github.com/HelionDevPlatform/helion-hello-world-node">
+![Helion  Logo](https://a248.e.akamai.net/cdn.hpcloudsvc.com/g0bc199ab57e65f093a48d069effc0c3b/prodae1//button.png?id=6)
+</a>
+
 ## Prerequisites
 - If you do not have an HP Helion Development Platform Application Lifecycle 
   Services Cluster available, please create one before continuing. You will also
