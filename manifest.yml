@@ -2,5 +2,5 @@
 # This is an extremely basic manifest file. 
 # Note that the name is always required while other fields are optional. 
 applications:
-- name: hello-world-node
+- name: helion-hello-world-node
   mem: 128M
